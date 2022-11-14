@@ -2,15 +2,15 @@
 
 Discente em Licenciatura em Computação no Instituto Federal Sertão Pernambucano - IFSertaoPE
 
-Apaixonado por informática
+Apaixonado por informática e tecnologia.
 
 Sempre em busca de adquirir novos conhecimentos e experiencias em novas tecnologias
 
-Gosto de desafios que me estimulam a crescer profissionalmente
+Gosto de desafios que me estimulam a crescer profissionalmente.
 
-inicialmente já desenvolvo em FRONT-END e estou me capacitando para se tornar
+Inicialmente já desenvolvo em FRONT-END e estou me capacitando para me tornar
 
-Um grande desenvolvedor FULL STACK
+Um grande desenvolvedor FULL STACK Senior.
 
 Sempre disposto a aprender novas tecnologias/linguagens.
 
