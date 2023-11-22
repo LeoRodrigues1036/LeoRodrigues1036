@@ -7,7 +7,7 @@
 <body>
     <h1 style = "background-color:red;">LEONARDO RODRIGUES</h1>
     <p>
-        Olá eu sou o Leonardo e tenho 26 anos, discente em Licenciatura da Computação no Instituto Federal Sertão Pernambucano - <a href="https://www.ifsertao-pe.edu.br/">IFSertaoPE</a>, apaixonado pela Tecnologia da Informação, sempre em busca de adquirir novos conhecimentos e experiencias em novas tecnologias.
+        Olá eu sou o Leonardo e tenho 27 anos, discente em Licenciatura da Computação no Instituto Federal Sertão Pernambucano - <a href="https://www.ifsertao-pe.edu.br/">IFSertaoPE</a>, apaixonado pela Tecnologia da Informação, sempre em busca de adquirir novos conhecimentos e experiencias em novas tecnologias.
     </p>
     <p>
         Gosto de desafios que me estimulam a crescer profissionalmente, inicialmente já desenvolvo em FRONT-END e estou me capacitando para me tornar um desenvolvedor FULL STACK Senior, estou sempre disposto a aprender novas tecnologias/linguagens.
